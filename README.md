@@ -6,7 +6,7 @@ This project uses a fine-tuned YOLOv8 model to detect empty and occupied parking
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone [https://github.com/Eor14991/parking-lot-detection.git](https://github.com/Eor14991/parking-lot-detection.git)
     cd parking-lot-detection
     ```
 
